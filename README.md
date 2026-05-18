@@ -1,4 +1,3 @@
-````markdown
 # 🐦 Flappy Bird AI using DQN
 
 A Reinforcement Learning project where an AI learns to play **Flappy Bird** using **Deep Q-Networks (DQN)** with **PyTorch** and **Gymnasium**.
