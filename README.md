@@ -6,15 +6,8 @@ A Reinforcement Learning project where an AI learns to play **Flappy Bird** usin
 
 ## 🎮 Demo
 
-Add your gameplay GIF inside an `assets` folder:
+![Flappy Bird Demo](https://technologizer.com/wp-content/uploads/2014/06/flappybird.gif)
 
-```md
-![Gameplay](assets/flappy_ai.gif)
-```
-
-Example:
-
-![Gameplay](assets/flappy_ai.gif)
 
 ---
 
@@ -74,7 +67,7 @@ Stores hyperparameters like:
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/flappy-bird-dqn.git
+git clone https://github.com/Sakshi-2565/flappy-bird-dqn.git
 cd flappy-bird-dqn
 ```
 
