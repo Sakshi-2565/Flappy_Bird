@@ -67,8 +67,8 @@ Stores hyperparameters like:
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/Sakshi-2565/flappy-bird-dqn.git
-cd flappy-bird-dqn
+https://github.com/Sakshi-2565/Flappy_Bird.git
+cd Flappy_Bird
 ```
 
 Install dependencies:
