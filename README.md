@@ -139,3 +139,8 @@ runs/flappybirdv0.log
 - Better reward shaping
 
 ---
+
+
+## 👩‍💻 Author
+
+**Sakshi Vishwakarma** 💜
